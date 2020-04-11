@@ -1,0 +1,167 @@
+Received: from sg2pr02cu002.internal.outlook.com (2603:1096:4:2::22) by
+ SG2PR03MB3228.apcprd03.prod.outlook.com with HTTP via
+ SG2PR02CA0025.APCPRD02.PROD.OUTLOOK.COM; Fri, 5 Oct 2018 07:49:32 +0000
+Received: from SG2PR03MB3178.apcprd03.prod.outlook.com
+ ([fe80::a53a:1b2e:b342:3cbc]) by SG2PR03MB3178.apcprd03.prod.outlook.com
+ ([fe80::a53a:1b2e:b342:3cbc%5]) with mapi id 15.20.1228.011; Fri, 5 Oct 2018
+ 07:49:31 +0000
+From: "Anjaiah Gajjela (Banking & Financial Services)"
+	<anjaiah.gajjela@wipro.com>
+To: "Koushik Biswas (Banking & Financial Services)"
+	<koushik.biswas3@wipro.com>, "Geetha Priya Vattam (Industrial & Engineering
+ Services (I&ES))" <geetha.vattam@wipro.com>, "Lakshmianusha Koppadi
+ (Industrial & Engineering Services (I&ES))"
+	<lakshmianusha.koppadi@wipro.com>, "Subbaramireddy Sanepalli (Banking &
+ Financial Services)" <subbaramireddy.sanepalli@wipro.com>, "Joginder Kaur
+ (Banking & Financial Services)" <joginder.kaur@wipro.com>, "Kishore Lal
+ Mukesh Kumar (Digital)" <kishore.kumar17@wipro.com>, "Neelavathi Iregadhenla
+ (MAS)" <neelavathi.iregadhenla@wipro.com>, "Baratam Prasanna Mohan (Digital)"
+	<baratam.mohan@wipro.com>, "Keshetti Sadhankumar (Banking & Financial
+ Services)" <keshetti.sadhankumar1@wipro.com>, "Vemula Mounika (Banking &
+ Financial Services)" <vemula.mounika1@wipro.com>
+CC: "Chakradhar Rao Gandhe (Financial Services)"
+	<chakradhar.gandhe@wipro.com>, "Suresh Subramanian (MAS)"
+	<suresh.subramanian2@wipro.com>, "Hima Bindu Gopalam (Financial Services)"
+	<hima.gopalam@wipro.com>
+Subject: IBST Test Automation- 2K Milestone On the Way......
+Thread-Topic: IBST Test Automation- 2K Milestone On the Way......
+Thread-Index: AdRcex0rb0uipX68TZCvCD6hXIbKAw==
+Importance: high
+X-Priority: 1
+X-MS-Exchange-MessageSentRepresentingType: 1
+Date: Fri, 5 Oct 2018 07:49:31 +0000
+Message-ID:
+	<SG2PR03MB317840025D08A34F3F79F147E2EB0@SG2PR03MB3178.apcprd03.prod.outlook.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: SG2PR03MB3178.apcprd03.prod.outlook.com
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-Network-Message-Id:
+	217fad05-da63-4f6d-dbd6-08d62a9715d9
+X-MS-TNEF-Correlator:
+X-MS-Exchange-Organization-RecordReviewCfmType: 0
+x-ms-publictraffictype: Email
+msip_labels: MSIP_Label_b9a70571-31c6-4603-80c1-ef2fb871a62a_Enabled=True;
+ MSIP_Label_b9a70571-31c6-4603-80c1-ef2fb871a62a_SiteId=258ac4e4-146a-411e-9dc8-79a9e12fd6da;
+ MSIP_Label_b9a70571-31c6-4603-80c1-ef2fb871a62a_Ref=https://api.informationprotection.azure.com/api/258ac4e4-146a-411e-9dc8-79a9e12fd6da;
+ MSIP_Label_b9a70571-31c6-4603-80c1-ef2fb871a62a_Owner=agajj@wipro.com;
+ MSIP_Label_b9a70571-31c6-4603-80c1-ef2fb871a62a_SetDate=2018-10-05T13:19:26.1881242+05:30;
+ MSIP_Label_b9a70571-31c6-4603-80c1-ef2fb871a62a_Name=Internal and Restricted;
+ MSIP_Label_b9a70571-31c6-4603-80c1-ef2fb871a62a_Application=Microsoft Azure
+ Information Protection;
+ MSIP_Label_b9a70571-31c6-4603-80c1-ef2fb871a62a_Extended_MSFT_Method=Automatic;
+ Sensitivity=Internal and Restricted
+X-Microsoft-Antispam-Mailbox-Delivery:
+	ucf:0;jmr:0;ex:0;auth:0;dest:I;ENG:(750119)(520011016)(706158)(944506303)(944626516);
+X-Microsoft-Antispam-Message-Info:
+	pRfFWa/ycrCkv7Un8LLam+992LNZB3OAsb76BY+LEP08amT7n5es+ObRWwSWIePvDJ3phK7brjigsiIt+ATcXjuH8q2iQK0hsI53hHicTwLl48qfbBJncwMPr1WgcT3S
+Content-Type: multipart/alternative;
+	boundary="_000_SG2PR03MB317840025D08A34F3F79F147E2EB0SG2PR03MB3178apcp_"
+MIME-Version: 1.0
+
+--_000_SG2PR03MB317840025D08A34F3F79F147E2EB0SG2PR03MB3178apcp_
+Content-Type: text/plain; charset="us-ascii"
+
+Hi Team,
+
+
+
+Thanks for all your every bit of effort collectively to have achieved test case automation count of 1964 progressively till last week while we fall short by 36 TC to get the much awaited magic figure of 2000 . As already discussed with you at your individual desk this morning, we are confident to achieve the 2K milestone by the next WSR date (10th Oct'18) which also happens to be ' Client Meet & Speak' event day !! We, therefore would like to celebrate the 'Client Meet & Speak' event aptly by cutting the cake during presence of the client (Rajaneekath) to mark significance of '2K Milestone' achievement which is credited to every one of the whole IBST Test Automation team
+
+
+
+Thanks again for the impressive milestone in advance , and request you to stay focused on customer centric delivery with quality so as to bag similar milestones (5K, 10K, 15K ...) ahead and reinforce confidence of the client further during our journey with 'BOA IBST Test Automation'
+
+
+
+Thanks
+
+
+
+Regards,
+
+Anjaiah G
+
++91-9952998470
+
+
+
+Sensitivity: Internal & Restricted
+
+
+--_000_SG2PR03MB317840025D08A34F3F79F147E2EB0SG2PR03MB3178apcp_
+Content-Type: text/html; charset="us-ascii"
+
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://www.w3.org/TR/REC-html40">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=us-ascii">
+<meta name="Generator" content="Microsoft Word 15 (filtered medium)">
+<style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:#954F72;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri",sans-serif;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext="edit" spidmax="1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext="edit">
+<o:idmap v:ext="edit" data="1" />
+</o:shapelayout></xml><![endif]-->
+</head>
+<body lang="EN-US" link="#0563C1" vlink="#954F72">
+<div class="WordSection1">
+<p class="MsoNormal">Hi Team,<o:p></o:p></p>
+<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal">Thanks for all your every bit of effort collectively to have achieved test case automation count of
+<b>1964</b> progressively till last week while we fall short by 36 TC to get the much awaited magic figure of
+<b>2000</b> . As already discussed with you at your individual desk this morning, we are confident to achieve the
+<b>2K </b>milestone by the next WSR date (10<sup>th</sup> Oct&#8217;18) which also happens to be &#8216;
+<u>Client Meet &amp; Speak</u>&#8217; event day !! We, therefore would like to celebrate the &#8216;<u>Client Meet &amp; Speak&#8217;</u> event aptly by cutting the cake during presence of the client (<b>Rajaneekath</b>) to mark significance of &#8216;2K Milestone&#8217; achievement which is credited
+ to every one of the whole IBST Test Automation team <o:p></o:p></p>
+<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal">Thanks again for the impressive milestone in advance , and request you to stay focused on customer centric delivery with quality so as to bag similar milestones (5K, 10K, 15K &#8230;) ahead and reinforce confidence of the client further during
+ our journey with &#8216;BOA IBST Test Automation&#8217; <o:p></o:p></p>
+<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal">Thanks<o:p></o:p></p>
+<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal">Regards,<o:p></o:p></p>
+<p class="MsoNormal">Anjaiah G<o:p></o:p></p>
+<p class="MsoNormal">&#43;91-9952998470 &nbsp;<o:p></o:p></p>
+<br>
+<br>
+<p class="msipfooter7f249a36" align="Center"><span style="font-size:7.0pt;font-family:Arial;color:#000000">Sensitivity: Internal &amp; Restricted</span></p>
+</div>
+</body>
+</html>
+
+--_000_SG2PR03MB317840025D08A34F3F79F147E2EB0SG2PR03MB3178apcp_--

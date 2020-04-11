@@ -1,0 +1,594 @@
+Received: from HK2PR0301MB1985.apcprd03.prod.outlook.com (10.167.70.135) by
+ HK2PR0301MB1985.apcprd03.prod.outlook.com (10.167.70.135) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256_P256) id
+ 15.1.1075.1 via Mailbox Transport; Fri, 28 Apr 2017 15:57:33 +0000
+Received: from KL1PR03CA0070.apcprd03.prod.outlook.com (10.165.174.166) by
+ HK2PR0301MB1985.apcprd03.prod.outlook.com (10.167.70.135) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256_P256) id
+ 15.1.1075.1; Fri, 28 Apr 2017 15:57:31 +0000
+Received: from PU1APC01FT054.eop-APC01.prod.protection.outlook.com
+ (2a01:111:f400:7ebd::203) by KL1PR03CA0070.outlook.office365.com
+ (2a01:111:e400:5bf9::38) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256_P256) id 15.1.1075.1 via
+ Frontend Transport; Fri, 28 Apr 2017 15:57:31 +0000
+Received: from smtp.cardhealth.com (12.20.127.122) by
+ PU1APC01FT054.mail.protection.outlook.com (10.152.253.117) with Microsoft
+ SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id 15.1.1047.9 via
+ Frontend Transport; Fri, 28 Apr 2017 15:57:27 +0000
+Received: from unknown (HELO WPOH0010EXCAS24.cardinalhealth.net) ([10.212.42.46])
+  by dubsmtpout.cardinalhealth.net with ESMTP; 28 Apr 2017 11:57:24 -0400
+Received: from WPOH0019EXHYB02.cardinalhealth.net (10.212.25.116) by
+ WPOH0010EXCAS24.cardinalhealth.net (10.212.42.46) with Microsoft SMTP Server
+ (TLS) id 14.3.319.2; Fri, 28 Apr 2017 11:57:24 -0400
+Received: from WPOH0018EXEDG02.cardinalhealth.net (10.208.183.149) by
+ WPOH0019EXHYB02.cardinalhealth.net (10.212.25.116) with Microsoft SMTP Server
+ (TLS) id 14.3.319.2; Fri, 28 Apr 2017 11:57:23 -0400
+Received: from NAM01-BY2-obe.outbound.protection.outlook.com (10.208.183.254)
+ by smtp10.cardinalhealth.com (10.208.183.149) with Microsoft SMTP Server
+ (TLS) id 14.3.319.2; Fri, 28 Apr 2017 11:57:11 -0400
+Received: from BN3PR04MB2290.namprd04.prod.outlook.com (10.167.2.15) by
+ BN3PR04MB2291.namprd04.prod.outlook.com (10.167.2.16) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256_P256) id
+ 15.1.1047.13; Fri, 28 Apr 2017 15:57:21 +0000
+Received: from BN3PR04MB2290.namprd04.prod.outlook.com ([10.167.2.15]) by
+ BN3PR04MB2290.namprd04.prod.outlook.com ([10.167.2.15]) with mapi id
+ 15.01.1047.021; Fri, 28 Apr 2017 15:57:22 +0000
+From: "Biswas, Koushik" <koushik.biswas@cardinalhealth.com>
+To: "Koushik Biswas (Banking & Financial Services)"
+	<koushik.biswas3@wipro.com>
+Subject: Fw: Last Day in Cardinal
+Thread-Topic: Last Day in Cardinal
+Thread-Index: AQHSwDQVQe2wGc/seEeBarmgVP/ZP6Ha64XwgAAEQuE=
+X-MS-Exchange-MessageSentRepresentingType: 1
+Date: Fri, 28 Apr 2017 15:57:22 +0000
+Message-ID:
+	<BN3PR04MB22905C648ACDD705C695F77DEC130@BN3PR04MB2290.namprd04.prod.outlook.com>
+References:
+	<BN3PR04MB2290C4BC541F61DCC3175D9BEC130@BN3PR04MB2290.namprd04.prod.outlook.com>,<DM2PR04MB527301434C56D9D757C2B1490130@DM2PR04MB527.namprd04.prod.outlook.com>
+In-Reply-To:
+	<DM2PR04MB527301434C56D9D757C2B1490130@DM2PR04MB527.namprd04.prod.outlook.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthSource:
+	PU1APC01FT054.eop-APC01.prod.protection.outlook.com
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-Network-Message-Id:
+	f8c10d0f-0d58-4049-dbaf-08d48e4f4645
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator:
+X-MS-Exchange-Organization-RecordReviewCfmType: 0
+received-spf: None (protection.outlook.com: cardinalhealth.com does not
+ designate permitted sender hosts)
+x-ms-publictraffictype: Email
+Content-Type: multipart/related;
+	boundary="_004_BN3PR04MB22905C648ACDD705C695F77DEC130BN3PR04MB2290namp_";
+	type="multipart/alternative"
+MIME-Version: 1.0
+
+--_004_BN3PR04MB22905C648ACDD705C695F77DEC130BN3PR04MB2290namp_
+Content-Type: multipart/alternative;
+	boundary="_000_BN3PR04MB22905C648ACDD705C695F77DEC130BN3PR04MB2290namp_"
+
+--_000_BN3PR04MB22905C648ACDD705C695F77DEC130BN3PR04MB2290namp_
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+** This mail has been sent from an external source **
+FYI
+
+
+
+  ________________________________
+From: Bhayani, Siddharth
+Sent: Friday, April 28, 2017 11:43 AM
+To: Biswas, Koushik; Singh, Ankita; Davidson, Bill; Ranasingha, Pradosh; Ro=
+hit, Kumar; Kumar, Deepak; Ibrez, Mohammed; Tripathi, Ashutosh; Kumar, Upen=
+dra; Moharana, Kshanaprava; Sahoo, AshishKumar; Saha, Rohit
+Cc: Kota, Rajasekhar; simanta.talukdar@wipro.com
+Subject: RE: Last Day in Cardinal
+
+Koushik,
+
+Thanks for your tremendous efforts on P-Mod. You were an invaluable member =
+of the Automation team and your dedication and hard work is truly appreciat=
+ed. Good Luck!
+
+Thanks,
+___________________________________________________________________________=
+_____________
+        Sid Bhayani
+Manager, Quality Control
+Non Functional Testing and Specialized Practices
+Testing CoE | EIT Shared Services
+614-652-1752 desk | Siddharth.bhayani@cardinalhealth.com<mailto:Siddharth.b=
+hayani@cardinalhealth.com>
+
+
+
+From: Biswas, Koushik
+Sent: Friday, April 28, 2017 11:32 AM
+To: Singh, Ankita &lt;ankita.singh01@cardinalhealth.com&gt;; Davidson, Bill=
+ &lt;Bill.Davidson@cardinalhealth.com&gt;; Bhayani, Siddharth &lt;Siddharth=
+.Bhayani@cardinalhealth.com&gt;; Ranasingha, Pradosh &lt;Pradosh.Ranasingha=
+@cardinalhealth.com&gt;; Rohit, Kumar &lt;kumar.rohit01@cardinalhealth.com&=
+gt;; Kumar, Deepak &lt;deepak.kumar01@cardinalhealth.com&gt;; Ibrez, Mohamm=
+ed &lt;mohammed.ibrez01@cardinalhealth.com&gt;; Tripathi, Ashutosh &lt;ashu=
+tosh.tripathi@cardinalhealth.com&gt;; Kumar, Upendra &lt;upendra.kumar@card=
+inalhealth.com&gt;; Moharana, Kshanaprava &lt;kshanaprava.moharana01@cardin=
+alhealth.com&gt;; Sahoo, AshishKumar &lt;ashishkumar.sahoo@cardinalhealth.c=
+om&gt;; Saha, Rohit &lt;rohit.saha@cardinalhealth.com&gt;
+Subject: Last Day in Cardinal
+
+Hi All,
+
+As most of you know ,Today is my last day in this project. I have enjoyed w=
+orking with each one of you and hope the automation effort will continue to=
+ flourish.
+
+I hope to gain privilege to work with Cardinal in near future.
+
+Thanks to all for your support!!
+
+Below are my contact details:
+
+https://www.linkedin.com/in/koushik-biswas-3032342b/
+bikoushik@gmail.com<mailto:bikoushik@gmail.com>
+
+Let's keep in touch.
+
+Regards,
+Koushik
+
+
+
+_________________________________________________
+This message is for the designated recipient only and may contain privilege=
+d, proprietary
+or otherwise private information. If you have received it in error, please =
+notify the sender
+immediately and delete the original. Any other use of the email by you is p=
+rohibited.
+Dansk - Deutsch - Espanol - Francais - Italiano - Japanese - Nederlands - N=
+orsk - Portuguese - Chinese
+Svenska: http://www.cardinalhealth.com/en/support/terms-and-conditions-engl=
+ish.html
+
+--_000_BN3PR04MB22905C648ACDD705C695F77DEC130BN3PR04MB2290namp_
+Content-Type: text/html; charset="iso-8859-1"
+Content-ID: <129B411F901FA84CA178B85D18AB8EB6@apcprd03.prod.outlook.com>
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859-=
+1">
+<style type=3D"text/css" style=3D"display:none;"><!-- P {margin-top:0;margi=
+n-bottom:0;} --></style>
+</head>
+<body dir=3D"ltr">
+<p><font size=3D"2">** This mail has been sent from an external source **</=
+font></p>
+<div>
+<div id=3D"divtagdefaultwrapper" style=3D"font-size:12pt;color:#000000;font=
+-family:Calibri,Arial,Helvetica,sans-serif;" dir=3D"ltr">
+<p>FYI</p>
+<br>
+<br>
+<div style=3D"color: rgb(0, 0, 0);">
+<hr tabindex=3D"-1" style=3D"display:inline-block; width:98%">
+<div id=3D"divRplyFwdMsg" dir=3D"ltr"><font face=3D"Calibri, sans-serif" co=
+lor=3D"#000000" style=3D"font-size:11pt"><b>From:</b> Bhayani, Siddharth<br=
+>
+<b>Sent:</b> Friday, April 28, 2017 11:43 AM<br>
+<b>To:</b> Biswas, Koushik; Singh, Ankita; Davidson, Bill; Ranasingha, Prad=
+osh; Rohit, Kumar; Kumar, Deepak; Ibrez, Mohammed; Tripathi, Ashutosh; Kuma=
+r, Upendra; Moharana, Kshanaprava; Sahoo, AshishKumar; Saha, Rohit<br>
+<b>Cc:</b> Kota, Rajasekhar; simanta.talukdar@wipro.com<br>
+<b>Subject:</b> RE: Last Day in Cardinal</font>
+<div></div>
+</div>
+<div>
+<div>
+<p style=3D"margin: 0in 0in 0.0001pt; font-size: 12pt; font-family: " Times=
+=3D"" New=3D"" Roman?,=3D"" serif;?=3D"">
+<span style=3D"font-size:11.0pt; font-family:" Calibri?,sans-serif;=3D"" co=
+lor:#1F497D?=3D"">Koushik,</span></p>
+<p style=3D"margin: 0in 0in 0.0001pt; font-size: 12pt; font-family: " Times=
+=3D"" New=3D"" Roman?,=3D"" serif;?=3D"">
+<span style=3D"font-size:11.0pt; font-family:" Calibri?,sans-serif;=3D"" co=
+lor:#1F497D?=3D""></span></p>
+<p style=3D"margin: 0in 0in 0.0001pt; font-size: 12pt; font-family: " Times=
+=3D"" New=3D"" Roman?,=3D"" serif;?=3D"">
+<span style=3D"font-size:11.0pt; font-family:" Calibri?,sans-serif;=3D"" co=
+lor:#1F497D?=3D"">Thanks for your tremendous efforts on P-Mod. You were an =
+invaluable member of the Automation team and your dedication and hard work =
+is truly appreciated. Good Luck!</span></p>
+<p style=3D"margin: 0in 0in 0.0001pt; font-size: 12pt; font-family: " Times=
+=3D"" New=3D"" Roman?,=3D"" serif;?=3D"">
+<span style=3D"font-size:11.0pt; font-family:" Calibri?,sans-serif;=3D"" co=
+lor:#1F497D?=3D""></span></p>
+<div>
+<p style=3D"margin: 0in 0in 0.0001pt; font-size: 12pt; font-family: " Times=
+=3D"" New=3D"" Roman?,=3D"" serif;?=3D"">
+<span style=3D"font-size:10.0pt; font-family:" Arial?,sans-serif;=3D"" colo=
+r:#1F497D?=3D"">Thanks,</span></p>
+<p style=3D"margin: 0in 0in 0.0001pt; font-size: 12pt; font-family: " Times=
+=3D"" New=3D"" Roman?,=3D"" serif;?=3D"">
+<span style=3D"font-size:7.5pt; font-family:" Arial?,sans-serif;=3D"" color=
+:red?=3D"">________________________________________________________________=
+________________________</span><span style=3D"font-size:11.0pt; font-family=
+:" Calibri?,sans-serif;=3D"" color:#1F497D?=3D""></span></p>
+<table class=3D"MsoNormalTable" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" width=3D"550" style=3D"width:412.2pt; border-collapse:collapse">
+<tbody>
+<tr style=3D"height:45.2pt">
+<td width=3D"169" style=3D"width:126.9pt; border:none; border-right:solid #=
+A6A6A6 1.0pt; padding:0in 5.4pt 0in 5.4pt; height:45.2pt">
+<p align=3D"center" style=3D"text-align: center; margin: 0in 0in 0.0001pt; =
+font-size: 12pt; font-family: " Times=3D"" New=3D"" Roman?,=3D"" serif;?=3D=
+"">
+<span style=3D"font-size:11.0pt; font-family:" Calibri?,sans-serif;=3D"" co=
+lor:#1F497D?=3D""><img naturalheight=3D"61" naturalwidth=3D"194" width=3D"1=
+94" height=3D"61" id=3D"Picture_x0020_1" alt=3D"cid:image001.png@01D1C730.1=
+CFFF870" tabindex=3D"0" style=3D"user-select: none;" src=3D"cid:image001.pn=
+g@01D2C014.99496A50"></span><span style=3D"font-size:11.0pt; font-family:" =
+Calibri?,sans-serif;=3D"" color:#1F497D?=3D""></span></p>
+</td>
+<td width=3D"380" valign=3D"top" style=3D"width:285.3pt; padding:0in 5.4pt =
+0in 5.4pt; height:45.2pt">
+<p style=3D"margin: 0in 0in 0.0001pt; font-size: 12pt; font-family: " Times=
+=3D"" New=3D"" Roman?,=3D"" serif;?=3D"">
+<b><span style=3D"font-size:9.0pt; font-family:" Arial?,sans-serif;=3D"" co=
+lor:#1F497D?=3D"">Sid Bhayani</span></b></p>
+<p style=3D"margin: 0in 0in 0.0001pt; font-size: 12pt; font-family: " Times=
+=3D"" New=3D"" Roman?,=3D"" serif;?=3D"">
+<span style=3D"font-size:8.0pt; font-family:" Arial?,sans-serif;=3D"" color=
+:#1F497D?=3D"">Manager, Quality Control</span></p>
+<p style=3D"margin: 0in 0in 0.0001pt; font-size: 12pt; font-family: " Times=
+=3D"" New=3D"" Roman?,=3D"" serif;?=3D"">
+<span style=3D"font-size:8.0pt; font-family:" Arial?,sans-serif;=3D"" color=
+:#1F497D?=3D"">Non Functional Testing and Specialized Practices</span></p>
+<p style=3D"margin: 0in 0in 0.0001pt; font-size: 12pt; font-family: " Times=
+=3D"" New=3D"" Roman?,=3D"" serif;?=3D"">
+<span style=3D"font-size:8.0pt; font-family:" Arial?,sans-serif;=3D"" color=
+:#1F497D?=3D"">Testing CoE | EIT Shared Services</span></p>
+<p style=3D"margin: 0in 0in 0.0001pt; font-size: 12pt; font-family: " Times=
+=3D"" New=3D"" Roman?,=3D"" serif;?=3D"">
+<span style=3D"font-size:8.0pt; font-family:" Arial?,sans-serif;=3D"" color=
+:#1F497D?=3D"">614-652-1752 desk</span><span style=3D"font-size:8.0pt; font=
+-family:" Arial?,sans-serif;=3D"" color:#1F497D?=3D""> |
+<a href=3D"mailto:Siddharth.bhayani@cardinalhealth.com" style=3D"color: blu=
+e; text-decoration: underline;">
+Siddharth.bhayani@cardinalhealth.com</a></span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p style=3D"margin: 0in 0in 0.0001pt; font-size: 12pt; font-family: " Times=
+=3D"" New=3D"" Roman?,=3D"" serif;?=3D"">
+<span style=3D"font-size:11.0pt; font-family:" Calibri?,sans-serif;=3D"" co=
+lor:#1F497D?=3D""></span></p>
+<p style=3D"margin: 0in 0in 0.0001pt; font-size: 12pt; font-family: " Times=
+=3D"" New=3D"" Roman?,=3D"" serif;?=3D"">
+<b><span style=3D"font-size:11.0pt; font-family:" Calibri?,sans-serif;=3D""=
+ color:red?=3D""></span></b></p>
+</div>
+<p style=3D"margin: 0in 0in 0.0001pt; font-size: 12pt; font-family: " Times=
+=3D"" New=3D"" Roman?,=3D"" serif;?=3D"">
+<span style=3D"font-size:11.0pt; font-family:" Calibri?,sans-serif;=3D"" co=
+lor:#1F497D?=3D""></span></p>
+<div>
+<div style=3D"border:none; border-top:solid #E1E1E1 1.0pt; padding:3.0pt 0i=
+n 0in 0in">
+<p style=3D"margin: 0in 0in 0.0001pt; font-size: 12pt; font-family: " Times=
+=3D"" New=3D"" Roman?,=3D"" serif;?=3D"">
+<b><span style=3D"font-size:11.0pt; font-family:" Calibri?,sans-serif?=3D""=
+>From:</span></b><span style=3D"font-size:11.0pt; font-family:" Calibri?,sa=
+ns-serif?=3D""> Biswas, Koushik
+<br>
+<b>Sent:</b> Friday, April 28, 2017 11:32 AM<br>
+<b>To:</b> Singh, Ankita &lt;ankita.singh01@cardinalhealth.com&gt;; Davidso=
+n, Bill &lt;Bill.Davidson@cardinalhealth.com&gt;; Bhayani, Siddharth &lt;Si=
+ddharth.Bhayani@cardinalhealth.com&gt;; Ranasingha, Pradosh &lt;Pradosh.Ran=
+asingha@cardinalhealth.com&gt;; Rohit, Kumar &lt;kumar.rohit01@cardinalheal=
+th.com&gt;;
+ Kumar, Deepak &lt;deepak.kumar01@cardinalhealth.com&gt;; Ibrez, Mohammed &=
+lt;mohammed.ibrez01@cardinalhealth.com&gt;; Tripathi, Ashutosh &lt;ashutosh=
+.tripathi@cardinalhealth.com&gt;; Kumar, Upendra &lt;upendra.kumar@cardinal=
+health.com&gt;; Moharana, Kshanaprava &lt;kshanaprava.moharana01@cardinalhe=
+alth.com&gt;;
+ Sahoo, AshishKumar &lt;ashishkumar.sahoo@cardinalhealth.com&gt;; Saha, Roh=
+it &lt;rohit.saha@cardinalhealth.com&gt;<br>
+<b>Subject:</b> Last Day in Cardinal</span></p>
+</div>
+</div>
+<p style=3D"margin: 0in 0in 0.0001pt; font-size: 12pt; font-family: " Times=
+=3D"" New=3D"" Roman?,=3D"" serif;?=3D"">
+</p>
+<div id=3D"divtagdefaultwrapper">
+<div>
+<p style=3D"margin: 0in 0in 0.0001pt; font-size: 12pt; font-family: " Times=
+=3D"" New=3D"" Roman?,=3D"" serif;?=3D"">
+<span style=3D"font-size:11.0pt; font-family:" Calibri?,sans-serif;=3D"" co=
+lor:#212121?=3D"">Hi All,</span><span style=3D"font-size:11.5pt; font-famil=
+y:" Calibri?,sans-serif;=3D"" color:#212121?=3D""></span></p>
+</div>
+<div>
+<p style=3D"margin: 0in 0in 0.0001pt; font-size: 12pt; font-family: " Times=
+=3D"" New=3D"" Roman?,=3D"" serif;?=3D"">
+<span style=3D"font-size:11.0pt; font-family:" Calibri?,sans-serif;=3D"" co=
+lor:#212121?=3D""></span><span style=3D"font-size:11.5pt; font-family:" Cal=
+ibri?,sans-serif;=3D"" color:#212121?=3D""></span></p>
+</div>
+<div>
+<p style=3D"margin: 0in 0in 0.0001pt; font-size: 12pt; font-family: " Times=
+=3D"" New=3D"" Roman?,=3D"" serif;?=3D"">
+<span style=3D"font-size:11.0pt; font-family:" Calibri?,sans-serif;=3D"" co=
+lor:#212121?=3D"">As most of you know ,Today is my last day in this project=
+. I have enjoyed working with each one of you and hope the automation effor=
+t will continue to flourish.</span><span style=3D"font-size:11.5pt; font-fa=
+mily:" Calibri?,sans-serif;=3D"" color:#212121?=3D""></span></p>
+</div>
+<div>
+<p style=3D"margin: 0in 0in 0.0001pt; font-size: 12pt; font-family: " Times=
+=3D"" New=3D"" Roman?,=3D"" serif;?=3D"">
+<span style=3D"font-size:11.0pt; font-family:" Calibri?,sans-serif;=3D"" co=
+lor:#212121?=3D""></span><span style=3D"font-size:11.5pt; font-family:" Cal=
+ibri?,sans-serif;=3D"" color:#212121?=3D""></span></p>
+</div>
+<div>
+<p style=3D"margin: 0in 0in 0.0001pt; font-size: 12pt; font-family: " Times=
+=3D"" New=3D"" Roman?,=3D"" serif;?=3D"">
+<span style=3D"font-size:11.0pt; font-family:" Calibri?,sans-serif;=3D"" co=
+lor:#212121?=3D"">I hope to gain privilege to work with Cardinal in near fu=
+ture.</span></p>
+</div>
+<div>
+<p style=3D"margin: 0in 0in 0.0001pt; font-size: 12pt; font-family: " Times=
+=3D"" New=3D"" Roman?,=3D"" serif;?=3D"">
+</p>
+</div>
+<div>
+<p style=3D"margin: 0in 0in 0.0001pt; font-size: 12pt; font-family: " Times=
+=3D"" New=3D"" Roman?,=3D"" serif;?=3D"">
+<span style=3D"font-size:11.0pt; font-family:" Calibri?,sans-serif;=3D"" co=
+lor:#212121?=3D"">Thanks to all for your support!!</span></p>
+</div>
+<div>
+<p style=3D"margin: 0in 0in 0.0001pt; font-size: 12pt; font-family: " Times=
+=3D"" New=3D"" Roman?,=3D"" serif;?=3D"">
+<span style=3D"font-size:11.0pt; font-family:" Calibri?,sans-serif;=3D"" co=
+lor:#212121?=3D""></span><span style=3D"font-size:11.5pt; font-family:" Cal=
+ibri?,sans-serif;=3D"" color:#212121?=3D""></span></p>
+</div>
+<div>
+<p style=3D"margin: 0in 0in 0.0001pt; font-size: 12pt; font-family: " Times=
+=3D"" New=3D"" Roman?,=3D"" serif;?=3D"">
+<span style=3D"font-size:11.0pt; font-family:" Calibri?,sans-serif;=3D"" co=
+lor:#212121?=3D"">Below are my contact details:</span><span style=3D"font-s=
+ize:11.5pt; font-family:" Calibri?,sans-serif;=3D"" color:#212121?=3D""></s=
+pan></p>
+</div>
+<div>
+<p style=3D"margin: 0in 0in 0.0001pt; font-size: 12pt; font-family: " Times=
+=3D"" New=3D"" Roman?,=3D"" serif;?=3D"">
+<span style=3D"font-size:11.5pt; font-family:" Calibri?,sans-serif;=3D"" co=
+lor:#212121?=3D""></span></p>
+</div>
+<div>
+<p style=3D"margin: 0in 0in 0.0001pt; font-size: 12pt; font-family: " Times=
+=3D"" New=3D"" Roman?,=3D"" serif;?=3D"">
+<span style=3D"font-size:11.0pt; font-family:" Calibri?,sans-serif;=3D"" co=
+lor:#212121?=3D""><a href=3D"https://www.linkedin.com/in/koushik-biswas-303=
+2342b/" id=3D"LPlnk462233" style=3D"color: blue; text-decoration: underline=
+;" previewremoved=3D"true">https://www.linkedin.com/in/koushik-biswas-30323=
+42b/</a></span><span style=3D"font-size:11.5pt; font-family:" Calibri?,sans=
+-serif;=3D"" color:#212121?=3D""></span></p>
+</div>
+<p style=3D"margin: 0in 0in 0.0001pt; font-size: 12pt; font-family: " Times=
+=3D"" New=3D"" Roman?,=3D"" serif;?=3D"">
+<span style=3D"font-family:" Calibri?,sans-serif?=3D""><a href=3D"mailto:bi=
+koushik@gmail.com" style=3D"color: blue; text-decoration: underline;">bikou=
+shik@gmail.com</a></span>
+</p>
+<p><span style=3D"font-family:" Calibri?,sans-serif;=3D"" color:black?=3D""=
+></span></p>
+<p><span style=3D"font-family:" Calibri?,sans-serif;=3D"" color:black?=3D""=
+>Let's keep in touch.</span></p>
+<p><span style=3D"font-family:" Calibri?,sans-serif;=3D"" color:black?=3D""=
+></span></p>
+<p><span style=3D"font-family:" Calibri?,sans-serif;=3D"" color:black?=3D""=
+>Regards,</span></p>
+<p><span style=3D"font-family:" Calibri?,sans-serif;=3D"" color:black?=3D""=
+>Koushik</span></p>
+<p><span style=3D"font-family:" Calibri?,sans-serif;=3D"" color:black?=3D""=
+></span></p>
+<p><span style=3D"font-family:" Calibri?,sans-serif;=3D"" color:black?=3D""=
+></span></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p><br>
+_________________________________________________</p>
+<p>This message is for the designated recipient only and may contain privil=
+eged, proprietary<br>
+or otherwise private information. If you have received it in error, please =
+notify the sender<br>
+immediately and delete the original. Any other use of the email by you is p=
+rohibited.</p>
+<p>Dansk - Deutsch - Espanol - Francais - Italiano - Japanese - Nederlands =
+- Norsk - Portuguese - Chinese<br>
+Svenska: <span style=3D"TEXT-TRANSFORM: none; BACKGROUND-COLOR: #f5f5f5; TE=
+XT-INDENT: 0px; DISPLAY: inline !important; FONT: 13px Arial; WHITE-SPACE: =
+normal; FLOAT: none; LETTER-SPACING: normal; COLOR: #000000; WORD-SPACING: =
+0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
+http://www.cardinalhealth.com/en/support/terms-and-conditions-english.html<=
+/span></p>
+</div>
+</body>
+</html>
+
+--_000_BN3PR04MB22905C648ACDD705C695F77DEC130BN3PR04MB2290namp_--
+
+--_004_BN3PR04MB22905C648ACDD705C695F77DEC130BN3PR04MB2290namp_
+Content-Type: image/png; name="image001.png"
+Content-Description: image001.png
+Content-Disposition: inline; filename="image001.png"; size=8663;
+	creation-date="Fri, 28 Apr 2017 15:43:06 GMT";
+	modification-date="Fri, 28 Apr 2017 15:43:06 GMT"
+Content-ID: <image001.png@01D2C014.99496A50>
+Content-Transfer-Encoding: base64
+
+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
+hWcICQ+qju+byriHSpj2Vd7SLQOHZLKuadAz9ZmM2eg4Rqahs0nZ6xtrTCK2x7LHZ6dj7SII+eSb
+MmTwq/o9QrP8XdFQdJxj2df0CJX+6PKq+G2bE+auWZUV/9L9H0gjPF0UidzcKxp78pKnF90U7RLq
+b3lWQ9rzoknLvX7GSeWzv7psonN5VeZ8Jxw+N2PbxzrGeinlZWcWN5pHA4ZWxKjX2KpFw4pC0cGN
+VvExYddscCxPjG9+bRJmyfTK/1vMY6YfGTNHysnuF7NNH8vYByeN1yWZ8Ta5nv12SLAj5jU512tM
+ymyoqVubnrM9n6FSa4aF9P+aAu0uCAF1plYMfknnZ49+esG90XDsmuJY0fVhO60V56U/n1oxcI7M
+okeHP1X9Uq9odNnepd3ua2jYuirR6J74u5pVG76174Ffu6p66eXGHXaJFTLds577pOumvnlLxeBl
+lH/e3Lndxs5feqZCu98NmdDRrmVn0yY737a8Ue++u+r5By+4oD5ox4i58QPLSuzjsp45pX7A0L4l
+Iceq9zL1adta7tjuIyZjreyWsN5prin+X49yofGtUuBTE4SgJdOHDX5mwP33Lxmw/yEXha3QtSWR
+8MPj5i8ZtsVN3VTqhM5KZL23vcb6+baxBoUi3mln79t7a7ETu0rh138X887JuJlp8jHYymFGPrXg
+qOJw+HumZJ/KTDbb27Ht+clMerI69acpJ5VjuiiVm/HV8S9r1j8lYjlDMsWhfq7rZaOWvaTByty/
+NZuJv9DVWdHcL2iVcoUMexQFPnVBgHrPaYZ+zphpl1QtWNTNil3fJRy9IJoJVaaymdWbE17FtMrj
+N4x5Jv5Y1+LiO9OpZCbpZh9OucmztcEvJwCjn140LByOXKRQ62ky++slII94Xmr2jUNyWieXVPZh
+3ezIqa6xz3Asp5+xra0q/8VIyLqibqtbfUvlwNxKeiEVKAAFOkQQAtLPrBj86mlz5555eKzHlREn
+NCESClmxWPqHCp2W2aHQ8Yl0cqXWJ/bakkrdNEsb+hR2PVM+xthYNDog5XrrCLsaN32/zK5/5jTE
+/fGS8P7uNywvdF7YiZ1oXK9EzvGilJe5sj5rnplZUf6PwrAXKLA9CnSoINAghUAbtAgxcWTVghcU
+Ir23LFJ0o3GzZqubmfDfi+ff8PWBQ8aVhcP3jJ+/dHMsEq3IZjMfNGSz//V+w8a7H6ys/IAyRjy1
+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
+uFo+AQAAAABJRU5ErkJggg==
+
+--_004_BN3PR04MB22905C648ACDD705C695F77DEC130BN3PR04MB2290namp_--
